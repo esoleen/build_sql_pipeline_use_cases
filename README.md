@@ -17,3 +17,12 @@ The pipeline reads data from bank_transactions, computes the last transaction pe
 Job_001_bank_transactions.sql
 ### Job Schema: 
 job_001_bank_transactions_schema.sql
+
+## Case 2 : Distance Traveled
+## Purpose:
+This project demonstrates a data pipeline use case focused on extracting the distance traveled by each user in descending order.
+## Job Description
+### Job Name: 
+Job_002_distance_travel.sql
+### Job Schema: 
+job_002_distance_travel_schema.sql

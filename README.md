@@ -26,3 +26,12 @@ This project demonstrates a data pipeline use case focused on extracting the dis
 Job_002_distance_travel.sql
 ### Job Schema: 
 job_002_distance_travel_schema.sql
+
+## Case 3 : Employee Salaries
+## Purpose:
+This project demonstrates a data pipeline use case focused on selecting the top 3 departments with at least ten employees and rank them according to the percentage of their employees making over 100K in salary.
+## Job Description
+### Job Name: 
+job_003_employee_salaries.sql
+### Job Schema: 
+job_003_employee_salaries.sql

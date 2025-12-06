@@ -34,4 +34,13 @@ This project demonstrates a data pipeline use case focused on selecting the top 
 ### Job Name: 
 job_003_employee_salaries.sql
 ### Job Schema: 
-job_003_employee_salaries.sql
+job_003_employee_salaries_schema.sql
+
+## Case 3 : User Experience Percentage
+## Purpose:
+This project demonstrates a data pipeline use case  to determine the percentage of users that held the title of "Data Analyst" immediately before holding the title "Data Scientist".
+## Job Description
+### Job Name: 
+job_004_user_experience_percentage.sql
+### Job Schema: 
+job_004_user_experience_percentage_schema.sql
